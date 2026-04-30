@@ -10,8 +10,6 @@
 
 ### Connect with me:
 
-### Connect with me:
-
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mohamed-Hi4am) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/1mohamed-hisham)
 
 ### Languages and Tools:
