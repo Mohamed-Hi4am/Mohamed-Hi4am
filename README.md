@@ -10,7 +10,9 @@
 
 ### Connect with me:
 
-[![Mohamed-Hi4am](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/Mohamed-Hi4am) [![1mohamed-hisham](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/1mohamed-hisham)
+### Connect with me:
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mohamed-Hi4am) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/1mohamed-hisham)
 
 ### Languages and Tools:
 
