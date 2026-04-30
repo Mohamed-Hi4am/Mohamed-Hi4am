@@ -2,15 +2,11 @@
 
 ### A Backend Engineer
 
-- 🌱 I'm currently learning **Docker**
-
 - 📫 How to reach me **mohamedhisham2003.official@gmail.com**
-
-- 📄 Know about my experiences **[Resume / CV](https://drive.google.com/file/d/1IPutV2Cag2HLlk2uw4-dl6Zf8-PojUI7/view?usp=sharing)**
 
 ### Connect with me:
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mohamed-Hi4am) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/1mohamed-hisham)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/1mohamed-hisham)
 
 ### Languages and Tools:
 
